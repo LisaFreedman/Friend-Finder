@@ -1,0 +1,27 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LisaFreedman/Friend-Finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LisaFreedman/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/LisaFreedman/Friend-Finder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "node.js": "0.0.0",
+    "path": "^0.12.7"
+  }
+}
